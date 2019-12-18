@@ -5,6 +5,9 @@
 A reaction diffusion simulator for a Stanford CS279 final project (Autumn 2019). Our implemented
 `Simulation` class allows user-defined simulations of Gray-Scott reaction-diffusion models as well
 as custom stochastic reaction-diffusion simulations based on reaction kinetics.
+
+<img src="https://github.com/schlagercollin/CS279/blob/master/simulations/01_gray_scott_brain/example_1-video.gif?raw=true"/>
+
  
 
 ## General Project Structure
